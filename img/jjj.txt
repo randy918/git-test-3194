@@ -1,0 +1,3 @@
+cd /Users/randymiller918/2024-github/git-test-3194/img/
+git add .
+git commit -m "Add new image files"
